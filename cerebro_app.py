@@ -28,7 +28,7 @@ st.markdown(custom_title, unsafe_allow_html=True)
 custom_title = "<h5 style='text-align: center;'>Cerebro</h5>"
 st.markdown(custom_title, unsafe_allow_html=True)
 
-custom_title = "<h6 style='text-align: center;'>Artificial Intelligence Powered Chatbot, Designed and Built By Ep. Esekie Osereime Gabriel, Edostars Mr. Mathew, Mr. Gbenga and introducing, PTA Teacher (Engr. Japhet)</h6>"
+custom_title = "<h6 style='text-align: center;'>Artificial Intelligence Powered Chatbot, Designed and Built By Ep. Esekie Osereime Gabriel, EdoSTAR fellows, Mr. Mathew, Mr. Gbenga and introducing, PTA Teacher (Engr. Japhet)</h6>"
 st.markdown(custom_title, unsafe_allow_html=True)
 
 custom_title = "<h6 style='text-align: center;'>Okaigben senior secondary school Ewohimi, Esan south east. Edo state, Nigeria</h6>"
